@@ -1,0 +1,9 @@
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\bin\AzureSetup.cfg
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\bin\wfastcgi.py
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Release\deployment-updated-orig-prefix.txt
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\ptvs_virtualenv_proxy.py
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Release\web.config
+C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Release\web.debug.config

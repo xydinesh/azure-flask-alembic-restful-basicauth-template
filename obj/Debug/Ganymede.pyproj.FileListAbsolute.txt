@@ -1,0 +1,4 @@
+C:\Users\dweerapurage\Documents\devs\ganymede\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\dweerapurage\Documents\devs\ganymede\bin\AzureSetup.cfg
+C:\Users\dweerapurage\Documents\devs\ganymede\obj\Debug\web.config
+C:\Users\dweerapurage\Documents\devs\ganymede\obj\Debug\web.debug.config
