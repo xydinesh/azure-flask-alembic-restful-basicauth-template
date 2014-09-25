@@ -16,7 +16,7 @@
     <OutputPath>.</OutputPath>
     <StaticUriPattern>^/static/.*</StaticUriPattern>
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
-    <Name>Ganymede</Name>
+    <Name>FlaskRestTemplate</Name>
     <RootNamespace>FlaskWebTemplate</RootNamespace>
     <InterpreterId>
     </InterpreterId>
